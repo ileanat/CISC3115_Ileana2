@@ -1,0 +1,17 @@
+
+   85  cd javacode/javaprogram.java
+   86  cd javacode/javaprogram.class
+   87  cd javacode
+   88  ls
+   89  cd..
+   90  cd ..
+   91  cd ..
+   92  cd CISC3115_Ileana/javacode
+   93  cd..
+   94  cd ..
+   95  cd ..
+   96  ls
+   97  cd CISC3115_Ileana
+   98  la
+   99  ls
+  100  touch clihistory.txt
